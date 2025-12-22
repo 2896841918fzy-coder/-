@@ -1,0 +1,7 @@
+{
+  "name": "圣诞树最新版",
+  "description": "A 3D interactive particle Christmas tree controlled by hand gestures using MediaPipe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
